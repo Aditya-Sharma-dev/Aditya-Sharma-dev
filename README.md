@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code> 
 
 <!---
-aaryan2134/aaryan2134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aditya-Sharma-Dev/Aditya-Sharma-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
