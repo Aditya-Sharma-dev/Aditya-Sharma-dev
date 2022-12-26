@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source.
 - ⚡ Fun fact: Most of the python developers wear glasses because they can't C.
 
-<!-- - 👋 Hi, I’m Aaryan Arora
+<!-- - 👋 Hi, I’m Aditya Sharma
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++, Blockchain and web development
 - 🔎 Exploring Machine Learning
