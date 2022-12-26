@@ -13,21 +13,21 @@ Here are some ideas to get you started:
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++, Blockchain and web development
 - 🔎 Exploring Machine Learning
-- 📝 Check out my [portfolio](https://aaryan2134.github.io/)
+- 📝 Check out my [portfolio](https://Aditya-Sharma-Dev.github.io/)
 -->
 
 <!---
-[<img align="left" alt="Aaryan-Arora-3" width="22px" src="images/quora.png" />](https://devpost.com/aaryan2134?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[<img align="left" alt="Aaryan-Arora-3" width="22px" src="images/quora.png" />](https://devpost.com/Aditya-Sharma-Dev?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 [<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="images/linkedin.png" />](https://devfolio.co/projects)
 
-[<img align="left" alt="aaryan2134@gmail.com" width="22px" src="images/gmail.png" />](https://leetcode.com/aaryan2134/)
+[<img align="left" alt="Aditya-Sharma-Dev@gmail.com" width="22px" src="images/gmail.png" />](https://leetcode.com/Aditya-Sharma-Dev/)
 
 [<img align="left" alt="Aaryan-Arora-3" width="22px" src="images/quora.png" />](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/acdd63b1-86f2-4bef-be0d-54ec458f92fb)
 
 [<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="images/linkedin.png" />](https://devfolio.co/projects)
 
-[<img align="left" alt="aaryan2134@gmail.com" width="22px" src="images/gmail.png" />](https://leetcode.com/aaryan2134/)
+[<img align="left" alt="Aditya-Sharma-Dev@gmail.com" width="22px" src="images/gmail.png" />](https://leetcode.com/Aditya-Sharma-Dev/)
 <br></br>
 --->
 ## Feel free to reach out on: 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="images/linkedin.png" />](https://www.linkedin.com/in/aditya-sharma-83b60a1b5/)
 
-[<img align="left" alt="aaryan2134@gmail.com" width="22px" src="images/gmail.png" />](mailto:itsadityasharma02@gmail.com)
+[<img align="left" alt="Aditya-Sharma-Dev@gmail.com" width="22px" src="images/gmail.png" />](mailto:itsadityasharma02@gmail.com)
 
 <br />
 
