@@ -54,15 +54,20 @@ Here are some ideas to get you started:
 <hr>
 
 
-<summary>🔨 GitHub Contributions</summary>
-<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
+<!--<summary>🔨 GitHub Contributions</summary>
+<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>-->
 
 
 <summary>💻 GitHub Profile Stats</summary>
 
 |![GitHub PR's](https://github-readme-stats.vercel.app/api?username=Aditya-Sharma-Dev&show_icons=true&theme=dark&include_all_commits=true)| ![Branches - Network Graph](https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 |-|-|
-<img alt="Aditya's GitHub Graph1" src="https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<!--<img alt="Aditya's GitHub Graph1" src="https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/master/profile-summary-card-output/github_dark/0-profile-details.svg" /> -->
+
+[![](https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 ## Languages and Tools:  
