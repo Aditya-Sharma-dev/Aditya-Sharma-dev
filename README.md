@@ -30,10 +30,21 @@ Here are some ideas to get you started:
 [<img align="left" alt="Aditya-Sharma-Dev@gmail.com" width="22px" src="images/gmail.png" />](https://leetcode.com/Aditya-Sharma-Dev/)
 <br></br>
 --->
+
+<img height="35px" src="https://komarev.com/ghpvc/?username=aditya-sharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Sharma-dev" />
+
+ 
+  
+## GitHub Stats
+
+[![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/?username=aditya-sharma-dev)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya-sharma-dev&hide_border=true)](https://git.io/streak-stats)
+
+
 ## Feel free to reach out on: 
 <hr>
 
-[<img align="left" alt="aaryan-arora-a956b8203 | LinkedIn" width="22px" src="images/linkedin.png" />](https://www.linkedin.com/in/aditya-sharma-83b60a1b5/)
+[<img align="left" alt="aditya-sharma-dev | LinkedIn" width="22px" src="images/linkedin.png" />](https://www.linkedin.com/in/aditya-sharma-lnkdin/)
 
 [<img align="left" alt="Aditya-Sharma-Dev@gmail.com" width="22px" src="images/gmail.png" />](mailto:itsadityasharma02@gmail.com)
 
